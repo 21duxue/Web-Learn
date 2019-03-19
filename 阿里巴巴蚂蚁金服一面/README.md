@@ -19,7 +19,7 @@
       - 内存文本文件
       - 数据库
 
-  - ##### HTTP状态码（面经webKownlage）
+  - ##### [HTTP状态码](https://github.com/huyaocode/webKnowledge/blob/master/%E7%BD%91%E7%BB%9C/HTTP.md)
 
   - ##### [HTTP和HTTPS的区别，原理](https://www.cnblogs.com/wudaoyongchang/p/6253451.html)
 
@@ -47,15 +47,15 @@
   - ##### [什么是闭包，可以解决什么问题一般在哪使用](https://www.cnblogs.com/171220-barney/p/8552370.html)
 
 
-  - ##### [数组去重（多种方式）](https://blog.csdn.net/qq_38989725/article/details/81006998)
+- ##### [数组去重（多种方式）](https://blog.csdn.net/qq_38989725/article/details/81006998)
 
-  - ##### [call  bind   apply区别](https://blog.csdn.net/wyyandyou_6/article/details/81488103)
+- ##### [call  bind   apply区别](https://blog.csdn.net/wyyandyou_6/article/details/81488103)
 
-  - ##### [如何使用js实现链表](https://www.cnblogs.com/EganZhang/p/6594830.html)
+- ##### [如何使用js实现链表](https://www.cnblogs.com/EganZhang/p/6594830.html)
 
-  - ##### 继承
+- ##### 继承
 
-  - ##### [深拷贝与浅拷贝解释，以及如何实现](https://www.cnblogs.com/echolun/p/7889848.html)
+- ##### [深拷贝与浅拷贝解释，以及如何实现](https://www.cnblogs.com/echolun/p/7889848.html)
 
 - ### 其他
 
@@ -64,7 +64,7 @@
   - ##### [设计模式](https://www.cnblogs.com/yangguoe/p/8459312.html)
 
 
-  - ##### 数据结构排序算法
+- ##### 数据结构排序算法
 
-  - ##### [有没有看过angular或者react底层源码，比如双向数据绑定原理](https://blog.csdn.net/momdiy/article/details/78856878)
+- ##### [有没有看过angular或者react底层源码，比如双向数据绑定原理](https://blog.csdn.net/momdiy/article/details/78856878)
 

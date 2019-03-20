@@ -3,7 +3,7 @@
 
 - ### 网络原理方面
 
-  - ##### [TCP三次握手、四次挥手](https://baijiahao.baidu.com/s?id=1596016296668694374&wfr=spider&for=pc)
+  - ##### [TCP三次握手、四次挥手](https://blog.csdn.net/ZWE7616175/article/details/80432486)
 
     - 为什么连接的时候是三次握手，关闭的时候却是四次握手？
 

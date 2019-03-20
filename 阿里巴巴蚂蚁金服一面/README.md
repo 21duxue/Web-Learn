@@ -48,6 +48,8 @@
 
   - ##### [什么是闭包，可以解决什么问题一般在哪使用](https://www.cnblogs.com/171220-barney/p/8552370.html)
 
+    ##### [js闭包解决多个点击事件](https://www.cnblogs.com/maxigang/p/5578040.html)
+
 
 - ##### [数组去重（多种方式）](https://blog.csdn.net/qq_38989725/article/details/81006998)
 

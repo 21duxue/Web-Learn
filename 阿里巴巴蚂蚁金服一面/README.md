@@ -33,6 +33,7 @@
 
     - [XSS攻击](https://www.jianshu.com/p/630363a28549)
     - [CSRF攻击](https://www.cnblogs.com/phpstudy2015-6/p/6771239.html)
+    - ([CSRF攻击的防御](https://blog.csdn.net/xiaoxinshuaiga/article/details/80766369))
 
   - ##### [跨域的方式及原理](https://segmentfault.com/a/1190000011145364)
 

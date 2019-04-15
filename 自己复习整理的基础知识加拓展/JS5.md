@@ -108,7 +108,7 @@ $digest函数就是脏数据监测
 
 当 props 和 state 发生变化时，React会根据shouldComponentUpdate方法来决定是否重新渲染整个组件。
 
-### 原生js实现map方法
+### 15、原生js实现map方法
 
 我们平时用的是已经封装好的map方法，如果让我们自己封装一个map，应该如何实现。
 万变不离其宗，其实遍历数组的核心还是for循环。因此下面封装一个map方法。
